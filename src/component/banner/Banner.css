@@ -1,0 +1,17 @@
+.banner {
+    height:50vh;
+    position: relative;
+    background: url('https://www.bandingin.com/assets/images/posts/thumbs/0dFqnG0IA3.png');
+    height:50vh;
+    position: relative;
+}
+
+.banner__info {
+    background-color: black;
+    color:white;
+    padding-top: 25vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    width: 300px;
+}
